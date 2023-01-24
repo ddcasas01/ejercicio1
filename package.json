@@ -1,0 +1,31 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+  "main": "index.js",
+  "scripts": {
+    "index": "node index.js",
+    "prueba": "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hola",
+    "este",
+    "es",
+    "mi",
+    "primer",
+    "ejercicio",
+    "con",
+    "Node",
+    "en",
+    "el",
+    "mejor",
+    "Bootcamp",
+    "de",
+    "programación",
+    "del",
+    "mundo"
+  ],
+  "author": "Daniel De Las Casas",
+  "license": "ISC"
+}
